@@ -1,72 +1,56 @@
-Data Structures and Algorithms in Python
+Data Structures and Algorithms
 
-A collection of Data Structures and Algorithms implemented in Python to strengthen problem-solving, algorithmic thinking, and programming fundamentals.
+A collection of programming implementations and practice problems focused on Data Structures and Algorithms.
 
 📌 Overview
 
-This repository contains Python implementations and practice programs covering fundamental data structures and algorithms.
+This repository contains implementations and practice programs developed to improve programming fundamentals, logical thinking, and problem-solving skills.
 
-The project is intended to build strong foundations in Python programming, data structures, algorithms, and technical interview problem-solving.
+🧠 Topics
 
-🧠 Topics Covered
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Searching Algorithms
-* Sorting Algorithms
-* Recursion
-* Basic Problem Solving
-* Time and Space Complexity
+* Data Structures
+* Algorithms
+* Problem Solving
+* Searching
+* Sorting
+* Basic Algorithmic Techniques
 
 🛠️ Technology
 
-* Programming Language: Python
+* Language: Python
 * Version Control: Git & GitHub
 
-🎯 Goals
+🎯 Learning Objectives
 
-This repository focuses on improving:
+This repository is focused on strengthening:
 
-* Problem-solving skills
+* Python programming fundamentals
+* Data structure concepts
 * Algorithmic thinking
-* Python programming
-* Data structure implementation
+* Problem-solving skills
 * Technical interview preparation
 
-▶️ How to Run
+▶️ Getting Started
 
 Clone the repository:
 
 git clone https://github.com/harshareddy93922/data-structures-DS-.git
 
-Move into the repository:
+Open the project directory:
 
 cd data-structures-DS-
 
-Run any Python program:
+Run the required Python program:
 
 python filename.py
 
-📈 Complexity Analysis
-
-Where applicable, implementations can be analyzed using:
-
-* Time complexity
-* Space complexity
-* Best-case performance
-* Average-case performance
-* Worst-case performance
-
 🚀 Future Improvements
 
-* Add more advanced data structures
-* Add advanced algorithms
-* Add explanations for each solution
-* Add time and space complexity for individual programs
-* Add automated tests using pytest
+* Add detailed explanations for implementations
+* Add time and space complexity
+* Add more algorithmic problems
+* Add test cases for implementations
+* Improve documentation
 
 👨‍💻 Author
 
